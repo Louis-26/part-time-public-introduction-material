@@ -31,7 +31,8 @@
 
 有意向的同学请加我QQ介绍个人意向，2596332109
 
-![personal_QQ](https://github.com/Louis-26/part-time-public-introduction-material/edit/main/study_materials_sell/personal_QQ.png)
+![personal_QQ](https://github.com/Louis-26/part-time-public-introduction-material/blob/main/study_materials_sell/personal_QQ.png?raw=true)
+
 
 
 
