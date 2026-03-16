@@ -18,7 +18,11 @@
 
 # 现有资料汇总列表
 
-请详见: https://louis-26.github.io/personal_content/collect_resource.md
+请详见: https://github.com/Louis-26/part-time-public-introduction-material/blob/main/study_materials_sell/collect_resource.md
+
+# 工作要求
+有意向长期合作的同学请北京时间每周二私信我，汇报进展及动向，谢谢。
+
 
 
 
@@ -26,7 +30,8 @@
 
 有意向的同学请加我QQ介绍个人意向，2596332109
 
-![personal_QQ](C:\Users\yi_lu\my_files\part-time job\part-time-public-introduction-material\personal_QQ.png)
+![personal_QQ](https://github.com/Louis-26/part-time-public-introduction-material/blob/main/study_materials_sell/QQ_group.png)
+
 
 
 
