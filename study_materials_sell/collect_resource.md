@@ -87,6 +87,7 @@ AI领域的学习资料
 - typora
 - visual studio
 - xmind
+- epub ultimate
 
 
 
