@@ -8,20 +8,38 @@
 
 工作内容: 辅助完善/补充现有的学习资料
 
+工作要求
+
 报酬模式: 根据所提供的资料能带来的利润来定，假如客户数量不超过30，获得总利润的30%，假如超过30，获得所有客户总利润40%
 
-## 2. 市场营销员
+## 2. 市场营销员(<span style="color: red;">**急招**</span>)
 
 工作内容: 帮助搜寻客户，并完成资料售卖
 
+要求: 
+
+- 无硬性背景门槛，任何人可上手，有较好人脉关系为加分项
+- 平时积极刷卡园/微信群/社交媒体等，帮助发帖并主动联系需要资料的同学，把对应客户需求发给我，客户付款即视为成单
+- 由于想做营销的人数较多，本人只会考虑真正愿意花时间和我一起推广赚钱的同学，为确保大家的工作积极性，需要收取500押金**(出现违规行为将扣除部分/全部押金，严重者将解除职务)**，一个月内做满10单即可退还
+
+**有同学对此押金收取感到困惑，因此做如下解释**
+
+- **首先，减少某些推广成员明显消极怠工，出工不出力等情况**
+- **其次，减少少数推广员对接时态度傲慢/消息长时间不回等行为**
+
 报酬模式: 获得拉到的客户带来利润的30%，多劳多得
+
+# 工作要求
+
+有意向长期合作的同学请北京时间每周二私信我，汇报进展及动向
 
 # 现有资料汇总列表
 
-请详见: https://github.com/Louis-26/part-time-public-introduction-material/blob/main/study_materials_sell/collect_resource.md
+Google sheet: https://docs.google.com/spreadsheets/d/1BTijQ9RNlhALJtl4SnALSg1Ye2DGvDA5hQZhHeXw-Ck/edit?gid=1320205031#gid=1320205031
 
-# 工作要求
-有意向长期合作的同学请北京时间每周二私信我，汇报进展及动向，谢谢。
+GitHub sheet link:
+
+https://github.com/Louis-26/part-time-public-introduction-material/blob/main/study_materials_sell/course_list.xlsx
 
 
 
