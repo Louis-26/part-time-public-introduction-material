@@ -35,7 +35,9 @@
 
 # 现有资料汇总列表
 
-两个链接对应的是完全一样的资料，但请有条件的同学(需要VPN)看第一个Google sheet链接，因为内容可能实时更新，第二个链接更新会滞后。
+两个链接对应的是完全一样的资料，但请有条件的同学(需要VPN)看第一个Google sheet链接，因为内容可能实时更新，第二个链接更新会滞后。 
+
+## CUHKSZ 学习资料
 
 Google sheet: https://docs.google.com/spreadsheets/d/1BTijQ9RNlhALJtl4SnALSg1Ye2DGvDA5hQZhHeXw-Ck/edit?gid=1320205031#gid=1320205031
 
@@ -43,10 +45,17 @@ GitHub sheet link:
 
 https://github.com/Louis-26/part-time-public-introduction-material/blob/main/study_materials_sell/course_list.xlsx
 
+## 额外学习资料/系统升级/VPN等资源
+
+Google doc: https://docs.google.com/document/d/1aJTK-4splSrsIP62REz0exk2FCPmRF5UjjZfcvTXE2Q/edit?usp=sharing
+
+GitHub sheet link:
+
+https://github.com/Louis-26/part-time-public-introduction-material/blob/main/study_materials_sell/collect_resource.md
 
 
 
-## 助理加入方式
+# 加入方式
 
 有意向的同学请加我QQ介绍个人意向，2596332109
 
