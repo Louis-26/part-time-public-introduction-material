@@ -35,6 +35,8 @@
 
 # 现有资料汇总列表
 
+两个链接对应的是完全一样的资料，但请有条件的同学(需要VPN)看第一个Google sheet链接，因为内容可能实时更新，第二个链接更新会滞后。
+
 Google sheet: https://docs.google.com/spreadsheets/d/1BTijQ9RNlhALJtl4SnALSg1Ye2DGvDA5hQZhHeXw-Ck/edit?gid=1320205031#gid=1320205031
 
 GitHub sheet link:
@@ -48,7 +50,7 @@ https://github.com/Louis-26/part-time-public-introduction-material/blob/main/stu
 
 有意向的同学请加我QQ介绍个人意向，2596332109
 
-![personal_QQ](https://github.com/Louis-26/part-time-public-introduction-material/blob/main/study_materials_sell/QQ_group.png)
+![personal_QQ](../personal_QQ.png)
 
 
 
