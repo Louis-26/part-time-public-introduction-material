@@ -72,7 +72,7 @@ AI领域的学习资料
 
 ## 海外硕博申请资料
 
-  - reach out email(准备中)
+  - reach out email(200r，包含 reach out/follow up/after reject)
   - Statement of Purpose(准备中)
   - Personal Statement(准备中)
   - Reference Letter(准备中)
