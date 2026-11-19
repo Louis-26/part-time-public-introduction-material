@@ -2,6 +2,8 @@
 
 本项目主要目标是帮助更多需要电子学习资料的同学能更便捷地获得想要的资料。
 
+注意，为了进一步便于大家查看最新资料，**每周一凌晨12:00将会从Google Sheet自动将最新的课程资料表同步到本地并更新到GitHub云端**。尽管如此，请大家依然认准google sheet的资料，因为它是实时更新的。
+
 # 招募岗位
 
 ## 1. 资料整合员
@@ -39,7 +41,7 @@
 
 ## CUHKSZ 学习资料
 
-Google sheet: https://docs.google.com/spreadsheets/d/1BTijQ9RNlhALJtl4SnALSg1Ye2DGvDA5hQZhHeXw-Ck/edit?gid=1320205031#gid=1320205031
+Google sheet: https://docs.google.com/spreadsheets/d/1BTijQ9RNlhALJtl4SnALSg1Ye2DGvDA5hQZhHeXw-Ck/edit?gid=1702587845#gid=1702587845
 
 GitHub sheet link:
 

@@ -1,5 +1,10 @@
 ## CUHKSZ学习资料
-具体总结可详见: https://docs.google.com/spreadsheets/d/1X7Gb6BVOTtsDyiSg7g-n_YfuhDRvOHhd/edit?usp=sharing&ouid=114440338073529909110&rtpof=true&sd=true
+具体总结可详见: https://docs.google.com/spreadsheets/d/1BTijQ9RNlhALJtl4SnALSg1Ye2DGvDA5hQZhHeXw-Ck/edit?usp=sharing
+
+注意: 这个链接会实时更新，假如条件允许(有VPN可直接访问google sheet)，可以只关注这个链接。如果没有VPN，请关注此链接: https://github.com/Louis-26/part-time-public-introduction-material/blob/main/study_materials_sell/course_list.xlsx
+
+这个链接将不会实时更新，但每周一会自动同步为第一个链接的内容。
+
   - 课件(35r/课)
   - 教材及各种参考教材(40r/本)
   - 期中期末卷(40r/张)
@@ -56,11 +61,14 @@ AI领域的学习资料
 ## 职业发展
 
 英文版求职资料
-  - 求职简历模板(100r)
-  - 学术简历模板(100r)
-  - 求职信模板(100r)
-  - 科研申请邮件模板(100r)
-简历/求职信/申请邮件咨询、指导、修改可另算
+  - 求职简历模板(150r)
+  - 学术简历模板(150r)
+  - 求职信模板(150r)
+  - research reach out email(200r，包含 reach out/follow up/after reject)
+
+
+
+简历/求职信/申请邮件咨询、指导、修改可详见[生涯咨询服务介绍](https://docs.google.com/document/d/1kR4miTx-OeNtbJ--_gtOfu13AI3QzGjQguc7CdCQ2sw/edit?tab=t.0)
 
 
 
@@ -72,16 +80,15 @@ AI领域的学习资料
 
 ## 海外硕博申请资料
 
-  - reach out email(200r，包含 reach out/follow up/after reject)
   - Statement of Purpose(准备中)
   - Personal Statement(准备中)
   - Reference Letter(准备中)
 
 
 
-## 各类软件破解
+## 各类软件激活
 
-以下为亲测有效的软件破解教程，150r /app，包括
+以下为亲测有效的软件激活教程，150r/app，包括
 
 - adobe(including all affiliated softwares such as photoshop, premiere pro)
 - foxit pdf
@@ -90,6 +97,7 @@ AI领域的学习资料
 - visual studio
 - xmind
 - epub ultimate
+- beyond compare 5
 
 
 
@@ -97,8 +105,8 @@ AI领域的学习资料
 
 150r 一项
 
-- github student package
-- google one student pro
+- GitHub student package
+- Google one student pro
 
 
 
